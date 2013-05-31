@@ -1,0 +1,64 @@
+/* this is my first style sheet. Currently @2:30pm_23May2013 it isn't connecting to my HTML :( */
+
+.header1 {
+  text-align:center; 
+  background-color:transparent;
+  padding:0px 0 0 0; 
+  margin-bottom:-50px;
+  font:helvetica;
+  font-size:28px;
+  overflow:hidden;
+} 
+
+.menues {
+  border:0px solid transparent;
+  background-color:transparent;
+  padding:10px 0 0 0;
+  margin-bottom:40px;
+  color:white;
+}
+  
+a:link, a:visited {
+  color:grey;
+  text-decoration: none;
+  
+}
+
+.container {
+  
+  padding: 0;
+  text-align:center;
+  border-radius:5px;
+  font-family:helvetica, arial, sans-serif; 
+}
+
+.container p {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.fishhome {
+  margin:0 auto;
+  padding: ;
+  width:500px;
+  height:333px;
+}
+
+.connectme {
+  border:0px solid transparent;
+  background-color:solid transparent;
+  color:white;
+  margin:0 auto;
+  padding: ;
+  text-align:center;
+  height:100px;
+  width:550px;
+  background-color:transparent;
+  border-radius
+}
+
+.feet {
+  margin:0 auto;
+  padding: ;
+
+}
